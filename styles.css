@@ -1,5 +1,15 @@
+:root {
+    --yellow: (47, 88%, 63%);
+    --gray-950: (0, 0%, 7%);
+    --gray-500: (0, 0%, 42%);
+    --white: (0, 0%, 100%);
+    --space-100: 8px;
+    --space-150: 12px;
+    --space-200: 16px;
+}
+
 body {
-    background-color: #f4d04e;
+    background-color:#f4d04e ;
     width: 100vw;
     height: 100vh;
 }
