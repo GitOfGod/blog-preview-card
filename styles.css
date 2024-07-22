@@ -8,7 +8,12 @@
     --space-200: 16px;
 }
 
-body {
+* {
+    box-sizing: border-box;
+}
+
+body, html {
+    margin: 0;
     background-color:#f4d04e ;
     width: 100vw;
     height: 100vh;
