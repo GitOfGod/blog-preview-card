@@ -8,6 +8,16 @@
     --space-200: 16px;
 }
 
+@font-face {
+    font-family: figtree-medium;
+    src: url(./assets/fonts/static/Figtree-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: figtree-extra-bold;
+    src: url(./assets/fonts/static/Figtree-ExtraBold.ttf);
+}
+
 * {
     box-sizing: border-box;
 }
