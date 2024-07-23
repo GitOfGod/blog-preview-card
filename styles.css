@@ -84,6 +84,10 @@ main {
     box-shadow: var(--space-100) var(--space-100) 0px var(--gray-950);
 
 }
+
+.blog-title:hover {
+    color: var(--yellow);
+}
  
 img {
     display: block;
