@@ -3,9 +3,16 @@
     --gray-950: hsl(0, 0%, 7%);
     --gray-500: hsl(0, 0%, 42%);
     --white: hsl(0, 0%, 100%);
+
     --space-100: 8px;
     --space-150: 12px;
     --space-200: 16px;
+
+    --line-height: 150%;
+    --spacing: 0px;
+    --h1: 24px;
+    --h2: 16px;
+    --h3: 14px;
 }
 
 @font-face {
