@@ -91,6 +91,11 @@ img {
     border-radius: var(--space-150);
 }
 
+.author {
+    display: flex;
+    align-items: center;
+    
+}
 
 .attribution { text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
