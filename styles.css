@@ -30,6 +30,7 @@
     font-size: var(--h1);
     line-height: var(--line-height);
     letter-spacing: var(--spacing);
+    color: var(--gray-950);
 }
 
 .preset2 {
@@ -37,6 +38,7 @@
     font-size: var(--h2);
     line-height: var(--line-height);
     letter-spacing: var(--spacing);
+    color: var(--gray-500);
 }
 
 .preset3 {
@@ -44,6 +46,7 @@
     font-size: var(--h3);
     line-height: var(--line-height);
     letter-spacing: var(--spacing);
+    color: var(--gray-500);
 }
 
 .preset3-bold {
@@ -51,6 +54,7 @@
     font-size: var(--h3);
     line-height: var(--line-height);
     letter-spacing: var(--spacing);
+    color: var(--gray-950);
 }
 
 * {
