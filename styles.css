@@ -84,6 +84,12 @@ main {
     box-shadow: var(--space-100) var(--space-100) 0px var(--gray-950);
 
 }
+ 
+img {
+    display: block;
+    max-width: 100%;
+    border-radius: var(--space-150);
+}
 
 
 .attribution { text-align: center; }
