@@ -25,6 +25,34 @@
     src: url(./assets/fonts/static/Figtree-ExtraBold.ttf);
 }
 
+.preset1 {
+    font-family: figtree-extra-bold, sans-serif;
+    font-size: var(--h1);
+    line-height: var(--line-height);
+    letter-spacing: var(--spacing);
+}
+
+.preset2 {
+    font-family: figtree-medium, sans-serif;
+    font-size: var(--h2);
+    line-height: var(--line-height);
+    letter-spacing: var(--spacing);
+}
+
+.preset3 {
+    font-family: figtree-medium, sans-serif;
+    font-size: var(--h3);
+    line-height: var(--line-height);
+    letter-spacing: var(--spacing);
+}
+
+.preset3-bold {
+    font-family: figtree-extra-bold, sans-serif;
+    font-size: var(--h3);
+    line-height: var(--line-height);
+    letter-spacing: var(--spacing);
+}
+
 * {
     box-sizing: border-box;
 }
