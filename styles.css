@@ -64,9 +64,16 @@
 body, html {
     margin: 0;
     background-color: var(--yellow);
+    height: 100%;
+}
+
+main {
+    background-color: var(--white);
+    width: 350px;
+
 }
 
 
 
-.attribution { font-size: 11px; text-align: center; }
+.attribution { text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
