@@ -78,8 +78,12 @@ body {
 main {
     background-color: var(--white);
     width: 375px;
-}
+    padding: calc(var(--space-200) + var(--space-100));
+    border-radius: calc(var(--space-200) + var(--space-100));
+    border: 1px solid var(--gray-950);
+    box-shadow: var(--space-100) var(--space-100) 0px var(--gray-950);
 
+}
 
 
 .attribution { text-align: center; }
